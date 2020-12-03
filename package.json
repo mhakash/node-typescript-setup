@@ -7,7 +7,7 @@
   "scripts": {
     "start": "node dist/index.js",
     "build": "tsc",
-    "dev-watch": "nodemon"
+    "dev": "nodemon"
   },
   "keywords": [],
   "author": "",

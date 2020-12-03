@@ -6,7 +6,7 @@ import t2 from "./test1.js";
 console.log(t2.message);
 
 async function f() {
-  return 2;
+  return 1;
 }
 
 const x = await f();
